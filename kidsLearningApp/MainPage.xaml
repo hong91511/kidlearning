@@ -37,7 +37,7 @@
                          VerticalOptions="Center">
                 <ImageButton Source="abc.png"
                      Aspect="AspectFit"
-                     HeightRequest="150"
+                     HeightRequest="120"
                      CommandParameter="Letters"
                      Clicked="ImageButton_Clicked"/>
                 <Label Text="Letters" HorizontalOptions="Center"/>
@@ -51,7 +51,7 @@
                  VerticalOptions="Center">
                 <ImageButton Source="shapes.png"
                             Aspect="AspectFit"
-                            HeightRequest="150"
+                            HeightRequest="120"
                             CommandParameter="Shapes"
                             Clicked="ImageButton_Clicked"/>
                 <Label Text="Shapes" HorizontalOptions="Center"/>
@@ -65,7 +65,7 @@
                                  VerticalOptions="Center">
                 <ImageButton Source="color.png"
                             Aspect="AspectFit"
-                            HeightRequest="150"
+                            HeightRequest="120"
                             CommandParameter="Colors"
                             Clicked="ImageButton_Clicked"/>
                 <Label Text="Colors" HorizontalOptions="Center"/>
